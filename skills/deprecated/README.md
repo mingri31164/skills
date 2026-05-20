@@ -1,5 +1,7 @@
 # Deprecated
 
+[English](./README.md) | [中文](./README.zh-CN.md)
+
 Skills I no longer use.
 
 - **[design-an-interface](./design-an-interface/SKILL.md)** — Generate multiple radically different interface designs for a module using parallel sub-agents.

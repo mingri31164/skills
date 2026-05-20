@@ -1,5 +1,7 @@
 # In Progress
 
+[English](./README.md) | [中文](./README.zh-CN.md)
+
 Skills that are still being developed. They're not ready to ship — expect rough edges, breaking changes, and abandoned experiments. They're excluded from the plugin and the top-level README until they graduate to a stable bucket.
 
 - **[review](./review/SKILL.md)** — Review changes since a fixed point along two parallel axes: **Standards** (does the diff follow the repo's coding standards?) and **Spec** (does the diff faithfully implement the originating issue/PRD?).

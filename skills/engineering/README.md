@@ -1,5 +1,7 @@
 # Engineering
 
+[English](./README.md) | [中文](./README.zh-CN.md)
+
 Skills I use daily for code work.
 
 - **[diagnose](./diagnose/SKILL.md)** — Disciplined diagnosis loop for hard bugs and performance regressions: reproduce → minimise → hypothesise → instrument → fix → regression-test.
